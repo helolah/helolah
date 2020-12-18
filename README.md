@@ -12,7 +12,7 @@
 - 🛢️ MySQL | SQLServer<br>
 - 🔧Git<br>
 
-#### Contact Me
+#### Contact Me 📧
 - 🔗 Website (In process!!! 🤫)<br>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/helolah)](https://github.com/helolah)
