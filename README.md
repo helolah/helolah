@@ -5,7 +5,7 @@
 #### About Me ⚜️
 - 🎓 I'm recent IT graduate looking for opportunities and collabaration in projects related to Web development in especific in Front-End development.<br>
 - 🚀 I’m looking for a freelancer job to learn new technologys and build my portfolio.<br>
-- 📚 Currently I'm studying Typescript, React JS and Node Js.<br>
+- 📚 Currently I'm studying React JS, Next Js and Styled Components.<br>
 
 #### My Skills 🛠️
 - 🌐 HTML | CSS | JavaScript  | PHP<br>
