@@ -1,15 +1,14 @@
 # Hi, I'm Heloisa 👋
 
-🔥 Welcome to my GitHub profile! Here you can see my projects and studies. I hope that I can help you in a way!!! 🔥
+🔥 Welcome to my GitHub profile! Here you can see my projects and studies. 🔥
 
 #### About Me ⚜️
-- 🎓 I'm recent IT graduate looking for opportunities and collabaration in projects related to Web development in especific in Front-End development.<br>
-- 🚀 I’m looking for a freelancer job to learn new technologys and build my portfolio.<br>
-- 📚 Currently I'm studying React JS, Next Js and Styled Components.<br>
+- 🚀 I'm looking for opportunities and collabaration in projects related to Web development in especific in Web development.<br>
+- 📚 Currently I'm studying Laravel, SASS and Jquery.<br>
 
 #### My Skills 🛠️
-- 🌐 HTML | CSS | JavaScript  | PHP<br>
-- 🛢️ MySQL | SQLServer<br>
+- 🌐 HTML | CSS | JavaScript | PHP<br>
+- 🛢️ MySQL <br>
 - 🔧Git<br>
 
 #### Contact Me 📧
