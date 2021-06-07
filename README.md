@@ -3,7 +3,7 @@
 🔥 Welcome to my GitHub profile! Here you can see my projects and studies. 🔥
 
 #### About Me ⚜️
-- 🚀 I'm looking for opportunities and collabaration in projects related to Web development in especific in Web development.<br>
+- 🚀 I'm looking for opportunities in projects related to Web development.<br>
 - 📚 Currently I'm studying Laravel, SASS and Jquery.<br>
 
 #### My Skills 🛠️
