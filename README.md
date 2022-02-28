@@ -2,7 +2,7 @@
 
 I'm a Web Developer and currently working with Laravel, SASS and JQuery.
 
-I'm also studying ReactJS and in the future I'm looking to start my studies in NodeJS, and use my knowledge to create 100% complete and functional applications!
+I'm also studying ReactJS and in the future I'm looking to start my studies in NodeJS, and use my knowledge to develop 100% complete and functional applications!
 
 You have a project in mind? Don't hesitate send me a message. Let's bring this idea to life! 💜
 
