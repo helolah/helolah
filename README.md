@@ -10,4 +10,3 @@ You have a project in mind? Don't hesitate and send me a message. Let's bring th
 
 [![Linkedin Badge](https://img.shields.io/badge/-Heloisa%20Fernanda-6930C3?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heloisafernanda2/)](https://www.linkedin.com/in/heloisafernanda2/)
 [![Gmail Badge](https://img.shields.io/badge/-heloisafernandadev@gmail.com-6930C3?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heloisafernandadev@gmail.com)](mailto:heloisafernandadev@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@helolah-6930C3?style=flat-square&labelColor=6930C3&logo=instagram&logoColor=white&link=https://www.instagram.com/helolah)](https://www.instagram.com/helolah)
